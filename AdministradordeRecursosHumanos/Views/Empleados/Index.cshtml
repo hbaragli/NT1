@@ -1,0 +1,69 @@
+﻿@model IEnumerable<AdministradordeRecursosHumanos.Models.Empleado>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Nuevo Empleado", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CentroCosto.Departamento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Apellido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaAlta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Activo)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        if (item.Activo == true)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CentroCosto.Departamento)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Apellido)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaAlta)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Activo)
+                </td>
+
+                <td>
+                    @Html.ActionLink("Editar", "Edit", new { id = item.EmpleadoId }) |
+                    @Html.ActionLink("Detalles", "Details", new { id = item.EmpleadoId }) |
+                    @Html.ActionLink("Eliminar", "Delete", new { id = item.EmpleadoId })
+                </td>
+            </tr>
+        }
+    }
+
+
+
+</table>
+
+<p>
+    @Html.ActionLink("Listado de bajas", "Bajas")
+</p>

@@ -1,0 +1,90 @@
+﻿@model AdministradordeRecursosHumanos.Models.Empleado
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Empleado</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CentroCosto.Departamento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CentroCosto.Departamento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Apellido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Apellido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaAlta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaAlta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Antiguedad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Antiguedad)
+        </dd>
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Activo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Activo)
+        </dd>
+
+        @foreach (var tel in Model.Telefonos)
+        {
+            <dt>
+                @Html.DisplayNameFor(model => model.Telefonos)
+            </dt>
+
+            <dd>
+                @tel.NroTelefono
+            </dd>
+        }
+
+        @foreach (var dir in Model.Direcciones)
+        {
+            <dt>
+                @dir.Tipo
+            </dt>
+
+            <dd>
+                @dir.Calle @dir.Numero @dir.Ciudad
+            </dd>
+        }
+
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.EmpleadoId }) |
+    @Html.ActionLink("Volver al listado", "Index")
+</p>

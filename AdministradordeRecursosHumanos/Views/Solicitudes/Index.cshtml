@@ -1,0 +1,67 @@
+﻿@model IEnumerable<AdministradordeRecursosHumanos.Models.Solicitud>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Nueva Solicitud", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Empleado.Apellido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoSolicitud)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tema)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Texto)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaInicialRango)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaFinalRango)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Estado_solicitud)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Empleado.Apellido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipoSolicitud)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tema)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Texto)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaInicialRango)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaFinalRango)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Estado_solicitud)
+        </td>
+        <td>
+            @Html.ActionLink("Detalles", "Details", new { id=item.SolicitudId }) 
+        </td>
+    </tr>
+}
+
+</table>

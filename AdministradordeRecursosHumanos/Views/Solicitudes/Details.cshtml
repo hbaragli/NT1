@@ -1,0 +1,73 @@
+﻿@model AdministradordeRecursosHumanos.Models.Solicitud
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Solicitud</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Empleado.Apellido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Empleado.Apellido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoSolicitud)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoSolicitud)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tema)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tema)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Texto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Texto)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaInicialRango)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaInicialRango)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaFinalRango)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaFinalRango)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Estado_solicitud)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Estado_solicitud)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Volver al listado", "Index")
+</p>

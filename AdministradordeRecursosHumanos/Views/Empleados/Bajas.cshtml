@@ -1,0 +1,54 @@
+﻿@model IEnumerable<AdministradordeRecursosHumanos.Models.Empleado>
+
+@{
+    ViewBag.Title = "Bajas";
+}
+
+<h2>Bajas</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CentroCosto.Departamento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Apellido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaAlta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Activo)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    if (item.Activo == false)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CentroCosto.Departamento)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Apellido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaAlta)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Activo)
+        </td>
+       
+    </tr>
+    }
+}
+
+</table>

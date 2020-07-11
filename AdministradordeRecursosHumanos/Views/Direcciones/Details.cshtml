@@ -1,0 +1,66 @@
+﻿@model AdministradordeRecursosHumanos.Models.Direccion
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Direccion</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Empleado.Apellido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Empleado.Apellido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Provincia.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Provincia.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tipo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tipo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Calle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Calle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Numero)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Numero)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ciudad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ciudad)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.DireccionId }) |
+    @Html.ActionLink("Volver al listado", "Index")
+</p>

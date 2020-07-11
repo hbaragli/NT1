@@ -1,0 +1,699 @@
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.csprojAssemblyReference.cache
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.csproj.CoreCompileInputs.cache
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.dll.config
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.pdb
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csc.exe
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csc.exe.config
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csc.rsp
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csi.exe
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csi.exe.config
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csi.rsp
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.AppContext.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Console.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Compression.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Claims.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.ValueTuple.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\vbc.exe
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\vbc.exe.config
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\vbc.rsp
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\VBCSCompiler.exe
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Antlr3.Runtime.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.SqlServer.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Newtonsoft.Json.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Owin.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Helpers.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Mvc.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Optimization.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Razor.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Razor.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\WebGrease.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Helpers.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Mvc.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Optimization.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Razor.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Razor.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Newtonsoft.Json.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Antlr3.Runtime.pdb
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.SqlServer.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Razor.resources.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\EntityFramework.resources.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.csproj.CopyComplete
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.dll
+C:\Users\Negrito Baragli\source\repos\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.pdb
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.dll.config
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.pdb
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csc.exe
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csc.exe.config
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csc.rsp
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csi.exe
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csi.exe.config
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csi.rsp
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.AppContext.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Console.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\vbc.exe
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\vbc.exe.config
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\vbc.rsp
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Antlr3.Runtime.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.SqlServer.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Newtonsoft.Json.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Owin.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Helpers.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Mvc.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Optimization.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Razor.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\WebGrease.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Helpers.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Mvc.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Optimization.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Razor.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Newtonsoft.Json.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Antlr3.Runtime.pdb
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.SqlServer.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Razor.resources.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\EntityFramework.resources.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.csproj.CopyComplete
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.dll
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.pdb
+C:\Users\Sebastian\Desktop\Final v1\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.csprojAssemblyReference.cache
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.dll.config
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.pdb
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csc.exe
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csc.exe.config
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csc.rsp
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csi.exe
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csi.exe.config
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csi.rsp
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.AppContext.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Console.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Compression.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Claims.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.ValueTuple.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\vbc.exe
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\vbc.exe.config
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\vbc.rsp
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\VBCSCompiler.exe
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Antlr3.Runtime.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.SqlServer.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Newtonsoft.Json.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Owin.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Helpers.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Mvc.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Optimization.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Razor.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Razor.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\WebGrease.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Helpers.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Mvc.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Optimization.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Razor.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Razor.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Newtonsoft.Json.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Antlr3.Runtime.pdb
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.SqlServer.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Razor.resources.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\EntityFramework.resources.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.csprojAssemblyReference.cache
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.csproj.CoreCompileInputs.cache
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.csproj.CopyComplete
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.dll
+C:\Users\Negrito Baragli\Desktop\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.pdb
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.dll.config
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.pdb
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csc.exe
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csc.exe.config
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csc.rsp
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csi.exe
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csi.exe.config
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csi.rsp
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.AppContext.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Collections.Immutable.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Console.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Compression.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.FileSystem.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Pipes.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.AccessControl.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Claims.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.ValueTuple.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XPath.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\vbc.exe
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\vbc.exe.config
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\vbc.rsp
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\VBCSCompiler.exe
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\VBCSCompiler.exe.config
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Antlr3.Runtime.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.SqlServer.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Google.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Web.Infrastructure.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Newtonsoft.Json.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Owin.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Helpers.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Mvc.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Optimization.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Razor.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Deployment.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Razor.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\WebGrease.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Helpers.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Mvc.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Optimization.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Razor.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Deployment.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Razor.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Newtonsoft.Json.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Antlr3.Runtime.pdb
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.SqlServer.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Google.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Helpers.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Mvc.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Optimization.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Razor.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\EntityFramework.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.csprojAssemblyReference.cache
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.csproj.CopyComplete
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\v2\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.pdb
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.dll.config
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.pdb
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Owin.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.dll
+C:\Users\Usuario\Desktop\v2 - FINAL\AdministradordeRecursosHumanos\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.pdb
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.dll.config
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\AdministradordeRecursosHumanos.pdb
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\csc.exe
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\csc.exe.config
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\csc.rsp
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\csi.exe
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\csi.exe.config
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\csi.rsp
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.AppContext.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.Collections.Immutable.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.Console.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Compression.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.IO.FileSystem.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.IO.Pipes.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.Security.AccessControl.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Claims.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.ValueTuple.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XPath.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\vbc.exe
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\vbc.exe.config
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\vbc.rsp
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\VBCSCompiler.exe
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\roslyn\VBCSCompiler.exe.config
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Antlr3.Runtime.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\EntityFramework.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\EntityFramework.SqlServer.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Google.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Web.Infrastructure.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Newtonsoft.Json.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Owin.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\System.Web.Helpers.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\System.Web.Mvc.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\System.Web.Optimization.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\System.Web.Razor.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Deployment.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\System.Web.WebPages.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Razor.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\WebGrease.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\System.Web.Helpers.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\System.Web.Mvc.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\System.Web.Optimization.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\System.Web.Razor.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\System.Web.WebPages.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Deployment.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\System.Web.WebPages.Razor.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Newtonsoft.Json.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Antlr3.Runtime.pdb
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\EntityFramework.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\EntityFramework.SqlServer.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Google.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\es\System.Web.Helpers.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\es\System.Web.Mvc.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\es\System.Web.Optimization.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\es\System.Web.Razor.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\es\EntityFramework.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.csprojAssemblyReference.cache
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.csproj.CopyComplete
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.dll
+D:\Documentos\ANALISTA EN SISTEMAS\SEGUNDO CUATRIMESTRE\NT1\AdministradordeRecursosHumanos\obj\Debug\AdministradordeRecursosHumanos.pdb

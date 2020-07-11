@@ -1,0 +1,63 @@
+﻿@model IEnumerable<AdministradordeRecursosHumanos.Models.Direccion>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Empleado.Apellido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Provincia.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tipo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Calle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Numero)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ciudad)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Empleado.Apellido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Provincia.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tipo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Calle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Numero)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ciudad)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.DireccionId }) |
+            @Html.ActionLink("Detalles", "Details", new { id=item.DireccionId }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id=item.DireccionId })
+        </td>
+    </tr>
+}
+
+</table>
